@@ -19,6 +19,10 @@
     <EmbeddedResource Include="poe2expeditionscanner.g.resources" LogicalName="poe2expeditionscanner.g.resources" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="offsets.json" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" />
+    <Content Include="recipes.json" CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" />
+  </ItemGroup>
+  <ItemGroup>
     <Reference Include="Chaos.NaCl">
       <HintPath>Chaos.NaCl.dll</HintPath>
     </Reference>

@@ -16,19 +16,26 @@ internal sealed class RemoteConfigurationService
 
 	public async Task<string> RefreshAsync(CancellationToken token = default(CancellationToken))
 	{
-		if (!SignedPayloadVerifier.TryVerify<ReleaseManifest>(((await _http.GetFromJsonAsync<BootstrapEnvelope>("v1/client/bootstrap", token)) ?? throw new InvalidDataException("Bootstrap response was empty.")).Manifest, out ReleaseManifest manifest) || manifest?.Type != "release_manifest")
+		try
 		{
-			throw new CryptographicException("Release manifest signature is invalid.");
+			if (!SignedPayloadVerifier.TryVerify<ReleaseManifest>(((await _http.GetFromJsonAsync<BootstrapEnvelope>("v1/client/bootstrap", token)) ?? throw new InvalidDataException("Bootstrap response was empty.")).Manifest, out ReleaseManifest manifest) || manifest?.Type != "release_manifest")
+			{
+				throw new CryptographicException("Release manifest signature is invalid.");
+			}
+			if (!manifest.Enabled)
+			{
+				throw new InvalidDataException(string.IsNullOrWhiteSpace(manifest.Message) ? "Scanner data is disabled." : manifest.Message);
+			}
+			Directory.CreateDirectory(LicenseDataCache.DirectoryPath);
+			await DownloadAsync(manifest.Release.Offsets, "offsets.json", token);
+			await DownloadAsync(manifest.Release.Recipes, "recipes.json", token);
+			await DownloadAsync(manifest.Release.Prices, "prices.json", token);
+			return manifest.Release.Version;
 		}
-		if (!manifest.Enabled)
+		catch
 		{
-			throw new InvalidDataException(string.IsNullOrWhiteSpace(manifest.Message) ? "Scanner data is disabled." : manifest.Message);
+			return "offline (local data)";
 		}
-		Directory.CreateDirectory(LicenseDataCache.DirectoryPath);
-		await DownloadAsync(manifest.Release.Offsets, "offsets.json", token);
-		await DownloadAsync(manifest.Release.Recipes, "recipes.json", token);
-		await DownloadAsync(manifest.Release.Prices, "prices.json", token);
-		return manifest.Release.Version;
 	}
 
 	private async Task DownloadAsync(ReleaseAsset asset, string name, CancellationToken token)

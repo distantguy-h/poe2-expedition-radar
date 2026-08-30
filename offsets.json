@@ -1,0 +1,35 @@
+{
+    "schemaVersion":  1,
+    "dataVersion":  "2026.08.27.1040",
+    "appVersion":  "1.0.0",
+    "gameBuild":  "PoE2 2026-08-26",
+    "updatedUtc":  "2026-08-27T10:40:01.3219680Z",
+    "enabled":  true,
+    "message":  "",
+    "minimumAppVersion":  "1.0.0",
+    "gameStatePatterns":  [
+                              "48 39 2D ?? ?? ?? ?? 0F 85 16 01 00 00",
+                              "48 39 2D ?? ?? ?? ?? 0F 85 ?? ?? ?? ??"
+                          ],
+    "offsets":  {
+                    "AreaLocalPlayer":  1472,
+                    "AreaAwakeEntities":  1760,
+                    "AreaLevel":  196,
+                    "StateCurrent":  8,
+                    "InGameArea":  656,
+                    "EntityDetails":  8,
+                    "DetailsName":  8,
+                    "DetailsLookup":  40,
+                    "EntityComponents":  16,
+                    "StateMachineListener":  32,
+                    "RuneOwner":  16,
+                    "RuneAnchorRef":  40,
+                    "RuneAnchorHolder":  48,
+                    "RuneHoleCount":  56,
+                    "RuneAnchorPos":  60,
+                    "RuneListenerSub":  160,
+                    "RuneStride":  104,
+                    "RuneCount":  34,
+                    "AreaSleepingEntities":  1776
+                }
+}
