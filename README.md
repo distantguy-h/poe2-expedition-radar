@@ -2,6 +2,10 @@
 
 Rune Monolith Intelligence scanner for Path of Exile 2.
 
+## Demo
+
+<video src="https://github.com/distantguy-h/poe2-expedition-radar/releases/download/v1.0.0/POE2.Expedition.Radar.mp4" controls width="100%"></video>
+
 ## Features
 
 - Real-time expedition/rune monolith scanning
