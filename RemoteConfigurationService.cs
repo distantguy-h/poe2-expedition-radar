@@ -10,7 +10,6 @@ internal sealed class RemoteConfigurationService
 {
 	private readonly HttpClient _http = new HttpClient
 	{
-		BaseAddress = LicenseConfiguration.ApiBaseUri,
 		Timeout = TimeSpan.FromSeconds(20L)
 	};
 
