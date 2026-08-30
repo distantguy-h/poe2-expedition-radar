@@ -4,9 +4,7 @@ Rune Monolith Intelligence scanner for Path of Exile 2.
 
 ## Demo
 
-[![Watch Demo](https://img.shields.io/badge/▶_Watch_Demo-MP4-red?style=for-the-badge&logo=youtube)](https://github.com/distantguy-h/poe2-expedition-radar/releases/download/v1.0.0/POE2.Expedition.Radar.mp4)
-
-> 👆 Click to download & watch the demo video
+https://github.com/user-attachments/assets/f3fe2824-4f77-4ff9-940d-c62055db0f2f
 
 ## Features
 
