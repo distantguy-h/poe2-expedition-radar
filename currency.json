@@ -1,0 +1,1372 @@
+{
+  "rewards": [
+    {
+      "name": "Krillson's Bay Key",
+      "matched_api_id": null,
+      "price_exalted": null,
+      "price_divine": null
+    },
+    {
+      "name": "Mirror of Kalandra",
+      "matched_api_id": "mirror",
+      "price_exalted": 2618850.7647788343,
+      "price_divine": 6335.0
+    },
+    {
+      "name": "Hinekora's Lock",
+      "matched_api_id": "hinekoras-lock",
+      "price_exalted": 844563.8693675072,
+      "price_divine": 2043.0
+    },
+    {
+      "name": "Perfect Chaos Orb",
+      "matched_api_id": "perfect-chaos-orb",
+      "price_exalted": 2794.5431996692846,
+      "price_divine": 6.76
+    },
+    {
+      "name": "Perfect Exalted Orb",
+      "matched_api_id": "perfect-exalted-orb",
+      "price_exalted": 789.5824720959073,
+      "price_divine": 1.91
+    },
+    {
+      "name": "Divine Orb",
+      "matched_api_id": "divine",
+      "price_exalted": 413.39396444811905,
+      "price_divine": 1.0
+    },
+    {
+      "name": "Orb of Annulment",
+      "matched_api_id": "annul",
+      "price_exalted": 158.53658536585365,
+      "price_divine": 0.3835
+    },
+    {
+      "name": "Orb of Chance",
+      "matched_api_id": "chance",
+      "price_exalted": 5.018602728400165,
+      "price_divine": 0.01214
+    },
+    {
+      "name": "Perfect Flux",
+      "matched_api_id": "perfect-flux",
+      "price_exalted": 17341.876808598594,
+      "price_divine": 41.95
+    },
+    {
+      "name": "Perfect Regal Orb",
+      "matched_api_id": "perfect-regal-orb",
+      "price_exalted": 19.607275733774287,
+      "price_divine": 0.04743
+    },
+    {
+      "name": "Perfect Orb of Transmutation",
+      "matched_api_id": "perfect-orb-of-transmutation",
+      "price_exalted": 3.3642000826787926,
+      "price_divine": 0.008138
+    },
+    {
+      "name": "Perfect Orb of Augmentation",
+      "matched_api_id": "perfect-orb-of-augmentation",
+      "price_exalted": 16.76312525837123,
+      "price_divine": 0.04055
+    },
+    {
+      "name": "Aldur's Saga",
+      "matched_api_id": "aldurs-saga",
+      "price_exalted": 16014.882182720132,
+      "price_divine": 38.74
+    },
+    {
+      "name": "Thaumaturgic Flux (Level 20)",
+      "matched_api_id": "thaumaturgic-flux-20",
+      "price_exalted": 58.412567176519225,
+      "price_divine": 0.1413
+    },
+    {
+      "name": "Void Flux",
+      "matched_api_id": "void-flux",
+      "price_exalted": 14.754030591153368,
+      "price_divine": 0.03569
+    },
+    {
+      "name": "Crackling Flux",
+      "matched_api_id": "crackling-flux",
+      "price_exalted": 3.4563869367507234,
+      "price_divine": 0.008361
+    },
+    {
+      "name": "Blazing Flux",
+      "matched_api_id": "blazing-flux",
+      "price_exalted": 7.362546506820999,
+      "price_divine": 0.01781
+    },
+    {
+      "name": "Chilling Flux",
+      "matched_api_id": "chilling-flux",
+      "price_exalted": 3.4915254237288136,
+      "price_divine": 0.008446
+    },
+    {
+      "name": "Olroth's Saga",
+      "matched_api_id": "olroths-saga",
+      "price_exalted": 34.6589499793303,
+      "price_divine": 0.08384
+    },
+    {
+      "name": "Vorana's Saga",
+      "matched_api_id": "voranas-saga",
+      "price_exalted": 14.348904505994211,
+      "price_divine": 0.03471
+    },
+    {
+      "name": "Uhtred's Saga",
+      "matched_api_id": "uhtreds-saga",
+      "price_exalted": 271.64117403885905,
+      "price_divine": 0.6571
+    },
+    {
+      "name": "Medved's Saga",
+      "matched_api_id": "medveds-saga",
+      "price_exalted": 12.893757751136832,
+      "price_divine": 0.03119
+    },
+    {
+      "name": "Greater Regal Orb",
+      "matched_api_id": "greater-regal-orb",
+      "price_exalted": 1.6258784621744522,
+      "price_divine": 0.003933
+    },
+    {
+      "name": "Greater Chaos Orb",
+      "matched_api_id": "greater-chaos-orb",
+      "price_exalted": 104.2166184373708,
+      "price_divine": 0.2521
+    },
+    {
+      "name": "Greater Exalted Orb",
+      "matched_api_id": "greater-exalted-orb",
+      "price_exalted": 5.109549400578751,
+      "price_divine": 0.01236
+    },
+    {
+      "name": "Perfect Jeweller's Orb",
+      "matched_api_id": "perfect-jewellers-orb",
+      "price_exalted": 57.709797436957416,
+      "price_divine": 0.1396
+    },
+    {
+      "name": "Greater Orb of Transmutation",
+      "matched_api_id": "greater-orb-of-transmutation",
+      "price_exalted": 0.12455560148821827,
+      "price_divine": 0.0003013
+    },
+    {
+      "name": "Greater Orb of Augmentation",
+      "matched_api_id": "greater-orb-of-augmentation",
+      "price_exalted": 0.030359652749069863,
+      "price_divine": 7.344e-05
+    },
+    {
+      "name": "Orb of Alchemy",
+      "matched_api_id": "alch",
+      "price_exalted": 0.5907399751963621,
+      "price_divine": 0.001429
+    },
+    {
+      "name": "Verisium Pile",
+      "matched_api_id": null,
+      "price_exalted": null,
+      "price_divine": null
+    },
+    {
+      "name": "Blacksmith's Whetstone",
+      "matched_api_id": "whetstone",
+      "price_exalted": 0.3493592393551054,
+      "price_divine": 0.0008451
+    },
+    {
+      "name": "Arcanist's Etcher",
+      "matched_api_id": "etcher",
+      "price_exalted": 1.5936337329474988,
+      "price_divine": 0.003855
+    },
+    {
+      "name": "Armourer's Scrap",
+      "matched_api_id": "scrap",
+      "price_exalted": 0.5832988838362959,
+      "price_divine": 0.001411
+    },
+    {
+      "name": "Lesser Jeweller's Orb",
+      "matched_api_id": "lesser-jewellers-orb",
+      "price_exalted": 0.030768912773873502,
+      "price_divine": 7.443e-05
+    },
+    {
+      "name": "Regal Orb",
+      "matched_api_id": "regal",
+      "price_exalted": 0.0968582058701943,
+      "price_divine": 0.0002343
+    },
+    {
+      "name": "Chaos Orb",
+      "matched_api_id": "chaos",
+      "price_exalted": 33.365026870607686,
+      "price_divine": 0.08071
+    },
+    {
+      "name": "Exalted Orb",
+      "matched_api_id": "exalted",
+      "price_exalted": 1.0,
+      "price_divine": 0.002419
+    },
+    {
+      "name": "Artificer's Orb",
+      "matched_api_id": "artificers",
+      "price_exalted": 0.8664737494832576,
+      "price_divine": 0.002096
+    },
+    {
+      "name": "Gemcutter's Prism",
+      "matched_api_id": "gcp",
+      "price_exalted": 3.3885903265812316,
+      "price_divine": 0.008197
+    },
+    {
+      "name": "Glassblower's Bauble",
+      "matched_api_id": "bauble",
+      "price_exalted": 2.038859032658123,
+      "price_divine": 0.004932
+    },
+    {
+      "name": "Orb of Transmutation",
+      "matched_api_id": "transmute",
+      "price_exalted": 0.1205043406366267,
+      "price_divine": 0.0002915
+    },
+    {
+      "name": "Orb of Augmentation",
+      "matched_api_id": "aug",
+      "price_exalted": 0.42414220752377013,
+      "price_divine": 0.001026
+    },
+    {
+      "name": "5x Random Currency",
+      "matched_api_id": null,
+      "price_exalted": null,
+      "price_divine": null
+    },
+    {
+      "name": "Greater Jeweller's Orb",
+      "matched_api_id": "greater-jewellers-orb",
+      "price_exalted": 0.7705663497312939,
+      "price_divine": 0.001864
+    },
+    {
+      "name": "Aldur's Legacy",
+      "matched_api_id": "aldurs-legacy",
+      "price_exalted": 71269.11947085573,
+      "price_divine": 172.4
+    },
+    {
+      "name": "Medved's Boon",
+      "matched_api_id": null,
+      "price_exalted": null,
+      "price_divine": null
+    },
+    {
+      "name": "Uhtred's Boon",
+      "matched_api_id": null,
+      "price_exalted": null,
+      "price_divine": null
+    },
+    {
+      "name": "Vorana's Boon",
+      "matched_api_id": null,
+      "price_exalted": null,
+      "price_divine": null
+    },
+    {
+      "name": "Olroth's Boon",
+      "matched_api_id": null,
+      "price_exalted": null,
+      "price_divine": null
+    },
+    {
+      "name": "Serle's Triumph",
+      "matched_api_id": "serles-triumph",
+      "price_exalted": 752.3770152955767,
+      "price_divine": 1.82
+    },
+    {
+      "name": "Uhtred's Sidereus",
+      "matched_api_id": "uhtreds-sidereus",
+      "price_exalted": 43.86109962794543,
+      "price_divine": 0.1061
+    },
+    {
+      "name": "Medved's Tending",
+      "matched_api_id": "medveds-tending",
+      "price_exalted": 24.05952873088053,
+      "price_divine": 0.0582
+    },
+    {
+      "name": "Kolr's Hunt",
+      "matched_api_id": "kolrs-hunt",
+      "price_exalted": 166.51508887970235,
+      "price_divine": 0.4028
+    },
+    {
+      "name": "Thrud's Might",
+      "matched_api_id": "thruds-might",
+      "price_exalted": 18.090119884249688,
+      "price_divine": 0.04376
+    },
+    {
+      "name": "Katla's Gloom",
+      "matched_api_id": "katlas-gloom",
+      "price_exalted": 45.68003307151715,
+      "price_divine": 0.1105
+    },
+    {
+      "name": "Vorana's Carnage",
+      "matched_api_id": "voranas-carnage",
+      "price_exalted": 5.9363373294749895,
+      "price_divine": 0.01436
+    },
+    {
+      "name": "Cadigan's Epiphany",
+      "matched_api_id": "cadigans-epiphany",
+      "price_exalted": 107.85448532451426,
+      "price_divine": 0.2609
+    },
+    {
+      "name": "Betrayal of Aldur",
+      "matched_api_id": "betrayal-of-aldur",
+      "price_exalted": 5.200496072757337,
+      "price_divine": 0.01258
+    },
+    {
+      "name": "Astrid's Creativity",
+      "matched_api_id": "astrids-creativity",
+      "price_exalted": 967.3418768085985,
+      "price_divine": 2.34
+    },
+    {
+      "name": "Ire of Aldur",
+      "matched_api_id": "ire-of-aldur",
+      "price_exalted": 8.098387763538652,
+      "price_divine": 0.01959
+    },
+    {
+      "name": "Passion of Aldur",
+      "matched_api_id": "passion-of-aldur",
+      "price_exalted": 1.7498966515088878,
+      "price_divine": 0.004233
+    },
+    {
+      "name": "Breath of Aldur",
+      "matched_api_id": "breath-of-aldur",
+      "price_exalted": 1.5452666391070689,
+      "price_divine": 0.003738
+    },
+    {
+      "name": "Farrul's Rune of the Chase",
+      "matched_api_id": "farruls-rune-of-the-chase",
+      "price_exalted": 28.937577511368335,
+      "price_divine": 0.07
+    },
+    {
+      "name": "Hedgewitch Assandra's Rune of Wisdom",
+      "matched_api_id": "hedgewitch-assandras-rune-of-wisdom",
+      "price_exalted": 34.66721785861927,
+      "price_divine": 0.08386
+    },
+    {
+      "name": "Countess Seske's Rune of Archery",
+      "matched_api_id": "countess-seskes-rune-of-archery",
+      "price_exalted": 12.062835882596113,
+      "price_divine": 0.02918
+    },
+    {
+      "name": "Thane Girt's Rune of Wildness",
+      "matched_api_id": "thane-girts-rune-of-wildness",
+      "price_exalted": 9.338569656883008,
+      "price_divine": 0.02259
+    },
+    {
+      "name": "Courtesan Mannan's Rune of Cruelty",
+      "matched_api_id": "courtesan-mannans-rune-of-cruelty",
+      "price_exalted": 14.733360892930962,
+      "price_divine": 0.03564
+    },
+    {
+      "name": "Saqawal's Rune of Memory",
+      "matched_api_id": "saqawals-rune-of-memory",
+      "price_exalted": 10.706903679206283,
+      "price_divine": 0.0259
+    },
+    {
+      "name": "Thane Grannell's Rune of Mastery",
+      "matched_api_id": "thane-grannells-rune-of-mastery",
+      "price_exalted": 11.550227366680446,
+      "price_divine": 0.02794
+    },
+    {
+      "name": "Farrul's Rune of Grace",
+      "matched_api_id": "farruls-rune-of-grace",
+      "price_exalted": 2.166597767672592,
+      "price_divine": 0.005241
+    },
+    {
+      "name": "Fenumus' Rune of Agony",
+      "matched_api_id": "fenumus-rune-of-agony",
+      "price_exalted": 9.102935097147581,
+      "price_divine": 0.02202
+    },
+    {
+      "name": "Saqawal's Rune of the Sky",
+      "matched_api_id": "saqawals-rune-of-the-sky",
+      "price_exalted": 29.63207937164117,
+      "price_divine": 0.07168
+    },
+    {
+      "name": "The Greatwolf's Rune of Willpower",
+      "matched_api_id": "the-greatwolfs-rune-of-willpower",
+      "price_exalted": 17.552707730467134,
+      "price_divine": 0.04246
+    },
+    {
+      "name": "The Greatwolf's Rune of Claws",
+      "matched_api_id": "the-greatwolfs-rune-of-claws",
+      "price_exalted": 26.672178586192636,
+      "price_divine": 0.06452
+    },
+    {
+      "name": "Thane Leld's Rune of Spring",
+      "matched_api_id": "thane-lelds-rune-of-spring",
+      "price_exalted": 1.0,
+      "price_divine": 0.002419
+    },
+    {
+      "name": "Lady Hestra's Rune of Winter",
+      "matched_api_id": "lady-hestras-rune-of-winter",
+      "price_exalted": 41.339396444811904,
+      "price_divine": 0.1
+    },
+    {
+      "name": "Thane Myrk's Rune of Summer",
+      "matched_api_id": "thane-myrks-rune-of-summer",
+      "price_exalted": 2.3331955353451836,
+      "price_divine": 0.005644
+    },
+    {
+      "name": "Fenumus' Rune of Draining",
+      "matched_api_id": "fenumus-rune-of-draining",
+      "price_exalted": 8.400165357585779,
+      "price_divine": 0.02032
+    },
+    {
+      "name": "Fenumus' Rune of Spinning",
+      "matched_api_id": "fenumus-rune-of-spinning",
+      "price_exalted": 10.93840429929723,
+      "price_divine": 0.02646
+    },
+    {
+      "name": "Craiceann's Rune of Recovery",
+      "matched_api_id": "craiceanns-rune-of-recovery",
+      "price_exalted": 4.824307565109549,
+      "price_divine": 0.01167
+    },
+    {
+      "name": "Farrul's Rune of the Hunt",
+      "matched_api_id": "farruls-rune-of-the-hunt",
+      "price_exalted": 3.2678792889623813,
+      "price_divine": 0.007905
+    },
+    {
+      "name": "Saqawal's Rune of Erosion",
+      "matched_api_id": "saqawals-rune-of-erosion",
+      "price_exalted": 5.601488218272013,
+      "price_divine": 0.01355
+    },
+    {
+      "name": "Craiceann's Rune of Warding",
+      "matched_api_id": "craiceanns-rune-of-warding",
+      "price_exalted": 11.484084332368747,
+      "price_divine": 0.02778
+    },
+    {
+      "name": "Masterwork Rune",
+      "matched_api_id": "masterwork-rune",
+      "price_exalted": 256.924348904506,
+      "price_divine": 0.6215
+    },
+    {
+      "name": "Warding Rune of Hollowing",
+      "matched_api_id": "warding-rune-of-hollowing",
+      "price_exalted": 11.298057048367093,
+      "price_divine": 0.02733
+    },
+    {
+      "name": "Warding Rune of Bodyguards",
+      "matched_api_id": "warding-rune-of-bodyguards",
+      "price_exalted": 8.251343530384455,
+      "price_divine": 0.01996
+    },
+    {
+      "name": "Warding Rune of Equinox",
+      "matched_api_id": "warding-rune-of-equinox",
+      "price_exalted": 24.534931789995866,
+      "price_divine": 0.05935
+    },
+    {
+      "name": "Warding Rune of Obsession",
+      "matched_api_id": "warding-rune-of-obsession",
+      "price_exalted": 1.0,
+      "price_divine": 0.002419
+    },
+    {
+      "name": "Warding Rune of Armature",
+      "matched_api_id": "warding-rune-of-armature",
+      "price_exalted": 9.334435717238527,
+      "price_divine": 0.02258
+    },
+    {
+      "name": "Ancient Rune of Witchcraft",
+      "matched_api_id": "ancient-rune-of-witchcraft",
+      "price_exalted": 2.599834642414221,
+      "price_divine": 0.006289
+    },
+    {
+      "name": "Ancient Rune of Decay",
+      "matched_api_id": "ancient-rune-of-decay",
+      "price_exalted": 5.667631252583712,
+      "price_divine": 0.01371
+    },
+    {
+      "name": "Ancient Rune of Discovery",
+      "matched_api_id": "ancient-rune-of-discovery",
+      "price_exalted": 2.0,
+      "price_divine": 0.004838
+    },
+    {
+      "name": "Ancient Rune of Control",
+      "matched_api_id": "ancient-rune-of-control",
+      "price_exalted": 1.0,
+      "price_divine": 0.002419
+    },
+    {
+      "name": "Ancient Rune of Prowess",
+      "matched_api_id": "ancient-rune-of-prowess",
+      "price_exalted": 0.9231087226126499,
+      "price_divine": 0.002233
+    },
+    {
+      "name": "Ancient Rune of Shattering",
+      "matched_api_id": "ancient-rune-of-shattering",
+      "price_exalted": 4.997933030177759,
+      "price_divine": 0.01209
+    },
+    {
+      "name": "Ancient Rune of the Titan",
+      "matched_api_id": "ancient-rune-of-the-titan",
+      "price_exalted": 7.999173212071103,
+      "price_divine": 0.01935
+    },
+    {
+      "name": "Rune of Confrontation",
+      "matched_api_id": "rune-of-confrontation",
+      "price_exalted": 1.0,
+      "price_divine": 0.002419
+    },
+    {
+      "name": "Rune of Vital Flame",
+      "matched_api_id": "rune-of-vital-flame",
+      "price_exalted": 1.0,
+      "price_divine": 0.002419
+    },
+    {
+      "name": "Ancient Rune of Dueling",
+      "matched_api_id": "ancient-rune-of-dueling",
+      "price_exalted": 6.333195535345184,
+      "price_divine": 0.01532
+    },
+    {
+      "name": "Ancient Rune of Retaliation",
+      "matched_api_id": "ancient-rune-of-retaliation",
+      "price_exalted": 4.997933030177759,
+      "price_divine": 0.01209
+    },
+    {
+      "name": "Ancient Rune of Detonation",
+      "matched_api_id": "ancient-rune-of-detonation",
+      "price_exalted": 18.247209590739974,
+      "price_divine": 0.04414
+    },
+    {
+      "name": "Ancient Rune of Animosity",
+      "matched_api_id": "ancient-rune-of-animosity",
+      "price_exalted": 3.9995866060355514,
+      "price_divine": 0.009675
+    },
+    {
+      "name": "Ancient Rune of the Horde",
+      "matched_api_id": "ancient-rune-of-the-horde",
+      "price_exalted": 5.998346424142207,
+      "price_divine": 0.01451
+    },
+    {
+      "name": "Ancient Rune of Splinters",
+      "matched_api_id": "ancient-rune-of-splinters",
+      "price_exalted": 4.090533278214138,
+      "price_divine": 0.009895
+    },
+    {
+      "name": "Rune of Reach",
+      "matched_api_id": "rune-of-reach",
+      "price_exalted": 10.500206696982223,
+      "price_divine": 0.0254
+    },
+    {
+      "name": "Rune of Consistency",
+      "matched_api_id": "rune-of-consistency",
+      "price_exalted": 6.448945845390656,
+      "price_divine": 0.0156
+    },
+    {
+      "name": "Rune of the Blossom",
+      "matched_api_id": "rune-of-the-blossom",
+      "price_exalted": 23.695742042166184,
+      "price_divine": 0.05732
+    },
+    {
+      "name": "Rune of the Prism",
+      "matched_api_id": "rune-of-the-prism",
+      "price_exalted": 26.70525010334849,
+      "price_divine": 0.0646
+    },
+    {
+      "name": "Rune of Foundations",
+      "matched_api_id": "rune-of-foundations",
+      "price_exalted": 42.12484497726333,
+      "price_divine": 0.1019
+    },
+    {
+      "name": "Rune of Accumulation",
+      "matched_api_id": "rune-of-accumulation",
+      "price_exalted": 11.11616370400992,
+      "price_divine": 0.02689
+    },
+    {
+      "name": "Rune of Renown",
+      "matched_api_id": "rune-of-renown",
+      "price_exalted": 37.26333195535345,
+      "price_divine": 0.09014
+    },
+    {
+      "name": "Rune of Culmination",
+      "matched_api_id": "rune-of-culmination",
+      "price_exalted": 11.331128565522944,
+      "price_divine": 0.02741
+    },
+    {
+      "name": "Rune of Acrobatics",
+      "matched_api_id": "rune-of-acrobatics",
+      "price_exalted": 14.200082678792889,
+      "price_divine": 0.03435
+    },
+    {
+      "name": "Rune of the Hunt",
+      "matched_api_id": "rune-of-the-hunt",
+      "price_exalted": 18.214138073584124,
+      "price_divine": 0.04406
+    },
+    {
+      "name": "Rune of Vitality",
+      "matched_api_id": "rune-of-vitality",
+      "price_exalted": 12.91442744935924,
+      "price_divine": 0.03124
+    },
+    {
+      "name": "Warding Rune of Symbiosis",
+      "matched_api_id": "warding-rune-of-symbiosis",
+      "price_exalted": 0.749896651508888,
+      "price_divine": 0.001814
+    },
+    {
+      "name": "Warding Rune of Salvaging",
+      "matched_api_id": "warding-rune-of-salvaging",
+      "price_exalted": 14.997933030177759,
+      "price_divine": 0.03628
+    },
+    {
+      "name": "Warding Rune of Annihilation",
+      "matched_api_id": null,
+      "price_exalted": null,
+      "price_divine": null
+    },
+    {
+      "name": "Warding Rune of Heart",
+      "matched_api_id": "warding-rune-of-heart",
+      "price_exalted": 39.93799090533278,
+      "price_divine": 0.09661
+    },
+    {
+      "name": "Warding Rune of Glancing",
+      "matched_api_id": "warding-rune-of-glancing",
+      "price_exalted": 26.998759818106656,
+      "price_divine": 0.06531
+    },
+    {
+      "name": "Warding Rune of Stability",
+      "matched_api_id": "warding-rune-of-stability",
+      "price_exalted": 4.497726333195535,
+      "price_divine": 0.01088
+    },
+    {
+      "name": "Warding Rune of Nourishment",
+      "matched_api_id": "warding-rune-of-nourishment",
+      "price_exalted": 10.0,
+      "price_divine": 0.02419
+    },
+    {
+      "name": "Warding Rune of Courage",
+      "matched_api_id": "warding-rune-of-courage",
+      "price_exalted": 1.0,
+      "price_divine": 0.002419
+    },
+    {
+      "name": "Warding Rune of Desperation",
+      "matched_api_id": null,
+      "price_exalted": null,
+      "price_divine": null
+    },
+    {
+      "name": "Warding Rune of Disintegration",
+      "matched_api_id": "warding-rune-of-disintegration",
+      "price_exalted": 275.60975609756093,
+      "price_divine": 0.6667
+    },
+    {
+      "name": "Warding Rune of Protection",
+      "matched_api_id": "warding-rune-of-protection",
+      "price_exalted": 5.932203389830508,
+      "price_divine": 0.01435
+    },
+    {
+      "name": "Warding Rune of Reinforcement",
+      "matched_api_id": "warding-rune-of-reinforcement",
+      "price_exalted": 40.59528730880529,
+      "price_divine": 0.0982
+    },
+    {
+      "name": "Greater Charging Rune",
+      "matched_api_id": "greater-charging-rune",
+      "price_exalted": 17.060768912773874,
+      "price_divine": 0.04127
+    },
+    {
+      "name": "Greater Ward Rune",
+      "matched_api_id": "greater-ward-rune",
+      "price_exalted": 41.794129805704834,
+      "price_divine": 0.1011
+    },
+    {
+      "name": "Greater Stone Rune",
+      "matched_api_id": "greater-stone-rune",
+      "price_exalted": 0.09999999999999999,
+      "price_divine": 0.0002419
+    },
+    {
+      "name": "Greater Robust Rune",
+      "matched_api_id": "greater-robust-rune",
+      "price_exalted": 2.0248036378668868,
+      "price_divine": 0.004898
+    },
+    {
+      "name": "Greater Inspiration Rune",
+      "matched_api_id": "greater-inspiration-rune",
+      "price_exalted": 0.4997933030177759,
+      "price_divine": 0.001209
+    },
+    {
+      "name": "Greater Mind Rune",
+      "matched_api_id": "greater-mind-rune",
+      "price_exalted": 16.895411326994623,
+      "price_divine": 0.04087
+    },
+    {
+      "name": "Greater Storm Rune",
+      "matched_api_id": "greater-storm-rune",
+      "price_exalted": 3.629599007854485,
+      "price_divine": 0.00878
+    },
+    {
+      "name": "Greater Rebirth Rune",
+      "matched_api_id": "greater-rebirth-rune",
+      "price_exalted": 0.541546093427036,
+      "price_divine": 0.00131
+    },
+    {
+      "name": "Greater Body Rune",
+      "matched_api_id": "greater-body-rune",
+      "price_exalted": 3.0752377015295576,
+      "price_divine": 0.007439
+    },
+    {
+      "name": "Greater Resolve Rune",
+      "matched_api_id": "greater-resolve-rune",
+      "price_exalted": 9.346837536171972,
+      "price_divine": 0.02261
+    },
+    {
+      "name": "Greater Desert Rune",
+      "matched_api_id": "greater-desert-rune",
+      "price_exalted": 0.9011988424968995,
+      "price_divine": 0.00218
+    },
+    {
+      "name": "Greater Iron Rune",
+      "matched_api_id": "greater-iron-rune",
+      "price_exalted": 2.0024803637866886,
+      "price_divine": 0.004844
+    },
+    {
+      "name": "Greater Adept Rune",
+      "matched_api_id": "greater-adept-rune",
+      "price_exalted": 4.489458453906573,
+      "price_divine": 0.01086
+    },
+    {
+      "name": "Greater Glacial Rune",
+      "matched_api_id": "greater-glacial-rune",
+      "price_exalted": 1.0,
+      "price_divine": 0.002419
+    },
+    {
+      "name": "Greater Vision Rune",
+      "matched_api_id": "greater-vision-rune",
+      "price_exalted": 0.46134766432410085,
+      "price_divine": 0.001116
+    },
+    {
+      "name": "Charging Rune",
+      "matched_api_id": "charging-rune",
+      "price_exalted": 3.9995866060355514,
+      "price_divine": 0.009675
+    },
+    {
+      "name": "Ward Rune",
+      "matched_api_id": "ward-rune",
+      "price_exalted": 10.500206696982223,
+      "price_divine": 0.0254
+    },
+    {
+      "name": "Stone Rune",
+      "matched_api_id": null,
+      "price_exalted": null,
+      "price_divine": null
+    },
+    {
+      "name": "Robust Rune",
+      "matched_api_id": "robust-rune",
+      "price_exalted": 7.999173212071103,
+      "price_divine": 0.01935
+    },
+    {
+      "name": "Inspiration Rune",
+      "matched_api_id": "inspiration-rune",
+      "price_exalted": 79.99173212071103,
+      "price_divine": 0.1935
+    },
+    {
+      "name": "Mind Rune",
+      "matched_api_id": "mind-rune",
+      "price_exalted": 26.998759818106656,
+      "price_divine": 0.06531
+    },
+    {
+      "name": "Storm Rune",
+      "matched_api_id": "storm-rune",
+      "price_exalted": 41.339396444811904,
+      "price_divine": 0.1
+    },
+    {
+      "name": "Rebirth Rune",
+      "matched_api_id": null,
+      "price_exalted": null,
+      "price_divine": null
+    },
+    {
+      "name": "Body Rune",
+      "matched_api_id": "body-rune",
+      "price_exalted": 82.67879288962381,
+      "price_divine": 0.2
+    },
+    {
+      "name": "Resolve Rune",
+      "matched_api_id": "resolve-rune",
+      "price_exalted": 159.98346424142207,
+      "price_divine": 0.387
+    },
+    {
+      "name": "Desert Rune",
+      "matched_api_id": "desert-rune",
+      "price_exalted": 7.999173212071103,
+      "price_divine": 0.01935
+    },
+    {
+      "name": "Iron Rune",
+      "matched_api_id": "iron-rune",
+      "price_exalted": 49.06986357999173,
+      "price_divine": 0.1187
+    },
+    {
+      "name": "Adept Rune",
+      "matched_api_id": "adept-rune",
+      "price_exalted": 20.669698222405952,
+      "price_divine": 0.05
+    },
+    {
+      "name": "Glacial Rune",
+      "matched_api_id": "glacial-rune",
+      "price_exalted": 33.365026870607686,
+      "price_divine": 0.08071
+    },
+    {
+      "name": "Vision Rune",
+      "matched_api_id": "vision-rune",
+      "price_exalted": 1.0,
+      "price_divine": 0.002419
+    },
+    {
+      "name": "Lesser Charging Rune",
+      "matched_api_id": null,
+      "price_exalted": null,
+      "price_divine": null
+    },
+    {
+      "name": "Lesser Ward Rune",
+      "matched_api_id": "lesser-ward-rune",
+      "price_exalted": 2.4997933030177757,
+      "price_divine": 0.006047
+    },
+    {
+      "name": "Lesser Mind Rune",
+      "matched_api_id": "lesser-mind-rune",
+      "price_exalted": 1.07689127738735,
+      "price_divine": 0.002605
+    },
+    {
+      "name": "Lesser Body Rune",
+      "matched_api_id": "lesser-body-rune",
+      "price_exalted": 15.899131872674658,
+      "price_divine": 0.03846
+    },
+    {
+      "name": "Lesser Stone Rune",
+      "matched_api_id": null,
+      "price_exalted": null,
+      "price_divine": null
+    },
+    {
+      "name": "Lesser Robust Rune",
+      "matched_api_id": "lesser-robust-rune",
+      "price_exalted": 46.217445225299706,
+      "price_divine": 0.1118
+    },
+    {
+      "name": "Lesser Inspiration Rune",
+      "matched_api_id": "lesser-inspiration-rune",
+      "price_exalted": 34.997933030177755,
+      "price_divine": 0.08466
+    },
+    {
+      "name": "Lesser Storm Rune",
+      "matched_api_id": "lesser-storm-rune",
+      "price_exalted": 33.04671351798263,
+      "price_divine": 0.07994
+    },
+    {
+      "name": "Lesser Rebirth Rune",
+      "matched_api_id": "lesser-rebirth-rune",
+      "price_exalted": 13.99751963621331,
+      "price_divine": 0.03386
+    },
+    {
+      "name": "Lesser Resolve Rune",
+      "matched_api_id": "lesser-resolve-rune",
+      "price_exalted": 33.365026870607686,
+      "price_divine": 0.08071
+    },
+    {
+      "name": "Lesser Desert Rune",
+      "matched_api_id": "lesser-desert-rune",
+      "price_exalted": 19.81810665564283,
+      "price_divine": 0.04794
+    },
+    {
+      "name": "Lesser Iron Rune",
+      "matched_api_id": "lesser-iron-rune",
+      "price_exalted": 33.46010748243075,
+      "price_divine": 0.08094
+    },
+    {
+      "name": "Lesser Adept Rune",
+      "matched_api_id": "lesser-adept-rune",
+      "price_exalted": 47.49896651508888,
+      "price_divine": 0.1149
+    },
+    {
+      "name": "Lesser Glacial Rune",
+      "matched_api_id": "lesser-glacial-rune",
+      "price_exalted": 106.9863579991732,
+      "price_divine": 0.2588
+    },
+    {
+      "name": "Lesser Vision Rune",
+      "matched_api_id": null,
+      "price_exalted": null,
+      "price_divine": null
+    },
+    {
+      "name": "The Runefather's Alloy",
+      "matched_api_id": "the-runefathers-alloy",
+      "price_exalted": 8.08598594460521,
+      "price_divine": 0.01956
+    },
+    {
+      "name": "The Runebinder's Alloy",
+      "matched_api_id": "the-runebinders-alloy",
+      "price_exalted": 33.588259611409676,
+      "price_divine": 0.08125
+    },
+    {
+      "name": "Transcendent Alloy",
+      "matched_api_id": "transcendent-alloy",
+      "price_exalted": 36.42000826787928,
+      "price_divine": 0.0881
+    },
+    {
+      "name": "Celestial Alloy",
+      "matched_api_id": "celestial-alloy",
+      "price_exalted": 1360.0661430343116,
+      "price_divine": 3.29
+    },
+    {
+      "name": "Sovereign Alloy",
+      "matched_api_id": "sovereign-alloy",
+      "price_exalted": 181.6866473749483,
+      "price_divine": 0.4395
+    },
+    {
+      "name": "Mystic Alloy",
+      "matched_api_id": "mystic-alloy",
+      "price_exalted": 27.622984704423317,
+      "price_divine": 0.06682
+    },
+    {
+      "name": "Prismatic Alloy",
+      "matched_api_id": "prismatic-alloy",
+      "price_exalted": 7.966101694915253,
+      "price_divine": 0.01927
+    },
+    {
+      "name": "Swift Alloy",
+      "matched_api_id": "swift-alloy",
+      "price_exalted": 5.159156676312525,
+      "price_divine": 0.01248
+    },
+    {
+      "name": "Cyclonic Alloy",
+      "matched_api_id": "cyclonic-alloy",
+      "price_exalted": 15.584952459694087,
+      "price_divine": 0.0377
+    },
+    {
+      "name": "Expansive Alloy",
+      "matched_api_id": "expansive-alloy",
+      "price_exalted": 26.29599007854485,
+      "price_divine": 0.06361
+    },
+    {
+      "name": "Protective Alloy",
+      "matched_api_id": "protective-alloy",
+      "price_exalted": 143.15832988838363,
+      "price_divine": 0.3463
+    },
+    {
+      "name": "Adaptive Alloy",
+      "matched_api_id": "adaptive-alloy",
+      "price_exalted": 211.98842496899545,
+      "price_divine": 0.5128
+    },
+    {
+      "name": "Runic Alloy",
+      "matched_api_id": "runic-alloy",
+      "price_exalted": 20.293509714758166,
+      "price_divine": 0.04909
+    },
+    {
+      "name": "Uncut Skill Gem (Level 20)",
+      "matched_api_id": "uncut-skill-gem-20",
+      "price_exalted": 2009.0946672178586,
+      "price_divine": 4.86
+    },
+    {
+      "name": "Uncut Spirit Gem (Level 20)",
+      "matched_api_id": "uncut-spirit-gem-20",
+      "price_exalted": 2633.3195535345185,
+      "price_divine": 6.37
+    },
+    {
+      "name": "Rain of Blades (Level 20)",
+      "matched_api_id": null,
+      "price_exalted": null,
+      "price_divine": null
+    },
+    {
+      "name": "Wardbound Minions (Level 20)",
+      "matched_api_id": null,
+      "price_exalted": null,
+      "price_divine": null
+    },
+    {
+      "name": "Voltaic Barrier (Level 20)",
+      "matched_api_id": null,
+      "price_exalted": null,
+      "price_divine": null
+    },
+    {
+      "name": "Hollow Shell (Level 20)",
+      "matched_api_id": null,
+      "price_exalted": null,
+      "price_divine": null
+    },
+    {
+      "name": "Explosive Transmutation (Level 20)",
+      "matched_api_id": null,
+      "price_exalted": null,
+      "price_divine": null
+    },
+    {
+      "name": "Animus Splinters (Level 20)",
+      "matched_api_id": null,
+      "price_exalted": null,
+      "price_divine": null
+    },
+    {
+      "name": "Skyfall (Level 20)",
+      "matched_api_id": null,
+      "price_exalted": null,
+      "price_divine": null
+    },
+    {
+      "name": "Triskelion Cascade (Level 20)",
+      "matched_api_id": null,
+      "price_exalted": null,
+      "price_divine": null
+    },
+    {
+      "name": "Refutation (Level 20)",
+      "matched_api_id": null,
+      "price_exalted": null,
+      "price_divine": null
+    },
+    {
+      "name": "Runic Reprieve (Level 20)",
+      "matched_api_id": null,
+      "price_exalted": null,
+      "price_divine": null
+    },
+    {
+      "name": "Leylines (Level 20)",
+      "matched_api_id": null,
+      "price_exalted": null,
+      "price_divine": null
+    },
+    {
+      "name": "Animus Exchange (Level 20)",
+      "matched_api_id": null,
+      "price_exalted": null,
+      "price_divine": null
+    },
+    {
+      "name": "Verisium Manifestations (Level 20)",
+      "matched_api_id": null,
+      "price_exalted": null,
+      "price_divine": null
+    },
+    {
+      "name": "Powered by Verisium (Level 20)",
+      "matched_api_id": null,
+      "price_exalted": null,
+      "price_divine": null
+    },
+    {
+      "name": "Remnants of Kalguur (Level 20)",
+      "matched_api_id": null,
+      "price_exalted": null,
+      "price_divine": null
+    },
+    {
+      "name": "Grim Pillars (Level 20)",
+      "matched_api_id": null,
+      "price_exalted": null,
+      "price_divine": null
+    },
+    {
+      "name": "Bitter Dead (Level 20)",
+      "matched_api_id": null,
+      "price_exalted": null,
+      "price_divine": null
+    },
+    {
+      "name": "Conductive Runes (Level 20)",
+      "matched_api_id": null,
+      "price_exalted": null,
+      "price_divine": null
+    },
+    {
+      "name": "Repulsion (Level 20)",
+      "matched_api_id": null,
+      "price_exalted": null,
+      "price_divine": null
+    },
+    {
+      "name": "Frostflame Nova (Level 20)",
+      "matched_api_id": null,
+      "price_exalted": null,
+      "price_divine": null
+    },
+    {
+      "name": "Fragments Of The Past (Level 20)",
+      "matched_api_id": null,
+      "price_exalted": null,
+      "price_divine": null
+    },
+    {
+      "name": "Eternal March (Level 20)",
+      "matched_api_id": null,
+      "price_exalted": null,
+      "price_divine": null
+    },
+    {
+      "name": "Detonate Living (Level 20)",
+      "matched_api_id": null,
+      "price_exalted": null,
+      "price_divine": null
+    },
+    {
+      "name": "Uncut Skill Gem (Level 19)",
+      "matched_api_id": "uncut-skill-gem-19",
+      "price_exalted": 4.993799090533278,
+      "price_divine": 0.01208
+    },
+    {
+      "name": "Uncut Spirit Gem (Level 19)",
+      "matched_api_id": "uncut-spirit-gem-19",
+      "price_exalted": 33.31128565522943,
+      "price_divine": 0.08058
+    },
+    {
+      "name": "Healing Runes",
+      "matched_api_id": null,
+      "price_exalted": null,
+      "price_divine": null
+    },
+    {
+      "name": "Runic Infusion",
+      "matched_api_id": null,
+      "price_exalted": null,
+      "price_divine": null
+    },
+    {
+      "name": "Runic Extraction",
+      "matched_api_id": null,
+      "price_exalted": null,
+      "price_divine": null
+    },
+    {
+      "name": "Fist Of Kalguur",
+      "matched_api_id": null,
+      "price_exalted": null,
+      "price_divine": null
+    },
+    {
+      "name": "Scouring Flame",
+      "matched_api_id": null,
+      "price_exalted": null,
+      "price_divine": null
+    },
+    {
+      "name": "Runeforged Blades",
+      "matched_api_id": null,
+      "price_exalted": null,
+      "price_divine": null
+    },
+    {
+      "name": "Concussive Runes",
+      "matched_api_id": null,
+      "price_exalted": null,
+      "price_divine": null
+    },
+    {
+      "name": "Conductive Runes",
+      "matched_api_id": null,
+      "price_exalted": null,
+      "price_divine": null
+    },
+    {
+      "name": "Repulsion",
+      "matched_api_id": null,
+      "price_exalted": null,
+      "price_divine": null
+    },
+    {
+      "name": "Frostflame Nova",
+      "matched_api_id": null,
+      "price_exalted": null,
+      "price_divine": null
+    },
+    {
+      "name": "Fragments Of The Past",
+      "matched_api_id": null,
+      "price_exalted": null,
+      "price_divine": null
+    },
+    {
+      "name": "Eternal March",
+      "matched_api_id": null,
+      "price_exalted": null,
+      "price_divine": null
+    },
+    {
+      "name": "Detonate Living",
+      "matched_api_id": null,
+      "price_exalted": null,
+      "price_divine": null
+    },
+    {
+      "name": "Uncut Spirit Gem",
+      "matched_api_id": null,
+      "price_exalted": null,
+      "price_divine": null
+    },
+    {
+      "name": "Uncut Support Gem",
+      "matched_api_id": null,
+      "price_exalted": null,
+      "price_divine": null
+    },
+    {
+      "name": "Uncut Skill Gem",
+      "matched_api_id": null,
+      "price_exalted": null,
+      "price_divine": null
+    }
+  ]
+}
